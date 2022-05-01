@@ -7,7 +7,7 @@
     <center>
       <marquee height="200pt" width="500" scrollamount="4" direction="right" behavior="scroll"><h1>This is rangde song</h1></marquee>
 <audio controls>
-     <source src="https://github.com/manikumar9999/mkr/blob/main/naakanulu.mp3?raw=true" type="audio/mpeg"></audio></center>
+     <source src="https://github.com/manikumar9999/mkr/blob/master/naakanulu.mp3?raw=true"></audio></center>
     <br>
     <center>
       <marquee height="200pt" width="500" scrollamount="4" direction="top" behavior="scroll"><h1>This is Kalaavathi song</h1></marquee>
@@ -17,12 +17,12 @@
     <center>
        <marquee height="200pt" width="500" scrollamount="4" direction="down" behavior="scroll"><h1>This is Raghavendra swamy song song</h1></marquee>
     <audio controls>
-   <source src="https://github.com/manikumar9999/mkr/blob/main/raghavendra.mp3?raw=true" type="audio/mpeg"></audio></center>
+   <source src="https://github.com/manikumar9999/mkr/blob/master/raghavendra.mp3?raw=true" type="audio/mpeg"></audio></center>
       <br>
     <center> 
       <marquee height="200pt" width="500" scrollamount="4" direction="up" behavior="scroll"><h1>This video was peacock Video</h1></marquee>
     <video width="300" height="300" controls>
-      <source src="https://github.com/manikumar9999/mkr/blob/main/peacock.mp4?raw=true " type="video/mp4">
+      <source src="https://github.com/manikumar9999/mkr/blob/master/peacock.mp4?raw=true " type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
   </video>
     </center>
